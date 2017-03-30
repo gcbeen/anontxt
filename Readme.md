@@ -2,8 +2,6 @@
 
 ## Getting started
 
-**Setup node-orm2!**
-
 
 **Setup AnonTXT**
 
@@ -18,4 +16,3 @@ node server.js
 
 And then open up [localhost:3000](http://localhost:3000/)
 
-"# anontxt" 
